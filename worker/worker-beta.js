@@ -1,8 +1,8 @@
 /**
-* A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/ParveenBhadooOfficial/Google-Drive-Index
+* A Script Redesigned by Parveen Bhadoo from GOIndex at https://t.me/Jacksparrow063
 */
 const authConfig = {
-	"siteName": "Google Drive Index", // Website name
+	"siteName": "Jacksparrow063 Drive Index", // Website name
 	"client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com",
 	"client_secret": "ZNPZ-vS6N9Zjsyb_sNMZmXHL",
 	"refresh_token": "", // Authorize token
@@ -70,10 +70,10 @@ const uiConfig = {
 	"logo_height": "", // only if logo_image is true
 	"logo_width": "100px", // only if logo_image is true
 	"logo_link_name": "https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.3/bhadoo-cloud-logo-white.svg", // if logo is true then link otherwise just text for name
-	"contact_link": "https://t.telegram.ind.in/BhadooCloud", // Link to Contact Button on Menu
+	"contact_link": "https://t.me/Jacksparrow063", // Link to Contact Button on Menu
 	"copyright_year": "2050", // year of copyright, can be anything like 2015 - 2020 or just 2020
 	"company_name": "Bhadoo Cloud", // Name next to copyright
-	"company_link": "https://t.telegram.ind.in/BhadooCloud", // link of copyright name
+	"company_link": "https://t.me/Jacksparrow063", // link of copyright name
 	"credit": true, // Set this to true to give us credit
 	"display_size": true, // Set this to false to hide display file size
 	"display_time": false, // Set this to false to hide display modified time for folder and files
